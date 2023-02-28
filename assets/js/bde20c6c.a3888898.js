@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyeet_docs=self.webpackChunkyeet_docs||[]).push([[7713],{1600:e=>{e.exports=JSON.parse('{"title":"Entity-Manager","slug":"/category/entity-manager","permalink":"/docs/category/entity-manager","navigation":{"previous":{"title":"index","permalink":"/docs/Yeet/Theme-Manager/"},"next":{"title":"index","permalink":"/docs/Yeet/Entity-Manager/"}}}')}}]);
