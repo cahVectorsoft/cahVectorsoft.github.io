@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyeet_docs=self.webpackChunkyeet_docs||[]).push([[573],{554:e=>{e.exports=JSON.parse('{"title":"Components","slug":"/category/components","permalink":"/de/docs/category/components","navigation":{"previous":{"title":"What is Yeet?","permalink":"/de/docs/intro"},"next":{"title":"yContainer","permalink":"/de/docs/Components/YContainer/"}}}')}}]);

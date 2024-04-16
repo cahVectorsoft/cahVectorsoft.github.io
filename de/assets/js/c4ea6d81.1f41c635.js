@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyeet_docs=self.webpackChunkyeet_docs||[]).push([[7484],{5337:e=>{e.exports=JSON.parse('{"title":"Help-Center","slug":"/category/help-center","permalink":"/de/docs/category/help-center","navigation":{"previous":{"title":"index","permalink":"/de/docs/Yeet/Settings/"},"next":{"title":"index","permalink":"/de/docs/Yeet/Help-Center/"}}}')}}]);

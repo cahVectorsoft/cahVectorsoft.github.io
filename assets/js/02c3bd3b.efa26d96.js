@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyeet_docs=self.webpackChunkyeet_docs||[]).push([[4840],{6097:e=>{e.exports=JSON.parse('{"title":"Events","slug":"/category/events","permalink":"/docs/category/events","navigation":{"previous":{"title":"yLabel","permalink":"/docs/Components/YLabel/"},"next":{"title":"index","permalink":"/docs/Main Concepts/Events/"}}}')}}]);

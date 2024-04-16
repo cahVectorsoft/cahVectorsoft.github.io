@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyeet_docs=self.webpackChunkyeet_docs||[]).push([[2886],{8701:e=>{e.exports=JSON.parse('{"title":"Settings","slug":"/category/settings","permalink":"/de/docs/category/settings","navigation":{"previous":{"title":"index","permalink":"/de/docs/Yeet/User-Management/"},"next":{"title":"index","permalink":"/de/docs/Yeet/Settings/"}}}')}}]);

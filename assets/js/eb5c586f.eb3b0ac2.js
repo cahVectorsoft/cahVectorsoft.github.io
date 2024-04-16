@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyeet_docs=self.webpackChunkyeet_docs||[]).push([[8840],{7897:e=>{e.exports=JSON.parse('{"title":"Essentials","slug":"/category/essentials","permalink":"/category/essentials","navigation":{"previous":{"title":"yToggleButton","permalink":"/components/y-toggle-button/"},"next":{"title":"Spacing","permalink":"/essentials/boxmodel/"}}}')}}]);
